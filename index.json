@@ -9006,10 +9006,10 @@
   {
     "name": "Tachiyomi: Dynasty",
     "pkg": "eu.kanade.tachiyomi.extension.en.dynasty",
-    "apk": "tachiyomi-en.dynasty-v1.4.22.apk",
+    "apk": "tachiyomi-en.dynasty-v1.4.23.apk",
     "lang": "en",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18937,10 +18937,10 @@
   {
     "name": "Tachiyomi: Cartel de Manhwas",
     "pkg": "eu.kanade.tachiyomi.extension.es.carteldemanhwas",
-    "apk": "tachiyomi-es.carteldemanhwas-v1.4.32.apk",
+    "apk": "tachiyomi-es.carteldemanhwas-v1.4.33.apk",
     "lang": "es",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19798,10 +19798,10 @@
   {
     "name": "Tachiyomi: Mangas No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
-    "apk": "tachiyomi-es.mangasnosekai-v1.4.33.apk",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.34.apk",
     "lang": "es",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19861,10 +19861,10 @@
   {
     "name": "Tachiyomi: Manhwas.net",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwasnet",
-    "apk": "tachiyomi-es.manhwasnet-v1.4.10.apk",
+    "apk": "tachiyomi-es.manhwasnet-v1.4.11.apk",
     "lang": "es",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20386,10 +20386,10 @@
   {
     "name": "Tachiyomi: TenkaiScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.tenkaiscan",
-    "apk": "tachiyomi-es.tenkaiscan-v1.4.27.apk",
+    "apk": "tachiyomi-es.tenkaiscan-v1.4.32.apk",
     "lang": "es",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20397,9 +20397,9 @@
       {
         "name": "TenkaiScan",
         "lang": "es",
-        "id": "3979351466066596955",
+        "id": "4133545021282986386",
         "baseUrl": "https://tenkaiscan.net",
-        "versionId": 1,
+        "versionId": 2,
         "hasCloudflare": 1
       }
     ]
@@ -28125,10 +28125,10 @@
   {
     "name": "Tachiyomi: Manga-TR",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangatr",
-    "apk": "tachiyomi-tr.mangatr-v1.4.10.apk",
+    "apk": "tachiyomi-tr.mangatr-v1.4.11.apk",
     "lang": "tr",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29463,6 +29463,27 @@
         "baseUrl": "https://noy1.top",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ColaManhua (OhManhua)",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.onemanhua",
+    "apk": "tachiyomi-zh.onemanhua-v1.4.12.apk",
+    "lang": "zh",
+    "code": 12,
+    "version": "1.4.12",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "COLA漫画 (OH漫画)",
+        "lang": "zh",
+        "id": "8252565807829914103",
+        "baseUrl": "https://www.colamanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
