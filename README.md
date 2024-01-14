@@ -1,5 +1,3 @@
-UPSTREAM https://github.com/keiyoushi/extensions
-
 ### Please give the repo a :star:
 
 | Build | Support Server |
