@@ -114,14 +114,14 @@ jobs:
       id: sync
       uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
       with:
-        target_sync_branch: main
+        target_sync_branch: extensions-source
         # REQUIRED 'target_repo_token' exactly like this!
         target_repo_token: ${{ secrets.GITHUB_TOKEN }}
-        upstream_sync_branch: gh-pages
+        upstream_sync_branch: main
         upstream_sync_repo: keiyoushi/extensions-source
 
         # Set test_mode true to run tests instead of the true action!!
-        test_mode: false
+        test_mode: true
       
     # Step 3: Display a sample message based on the sync output var 'has_new_commits'
     - name: New commits found
