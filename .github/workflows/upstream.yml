@@ -49,7 +49,7 @@ jobs:
     - name: Show value of 'has_new_commits'
       run: echo ${{ steps.sync.outputs.has_new_commits }}
       
-  sync-gh-pages:
+  sync-gh-pages-branch:
     runs-on: ubuntu-latest
     name: Sync latest commits from the gh-pages branch
 
