@@ -865,10 +865,10 @@
   {
     "name": "Tachiyomi: Comic Fury",
     "pkg": "eu.kanade.tachiyomi.extension.all.comicfury",
-    "apk": "tachiyomi-all.comicfury-v1.4.2.apk",
+    "apk": "tachiyomi-all.comicfury-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10667,6 +10667,26 @@
         "lang": "en",
         "id": "3476960503147001781",
         "baseUrl": "https://mangavisa.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaBTT",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangabtt",
+    "apk": "tachiyomi-en.mangabtt-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaBTT",
+        "lang": "en",
+        "id": "7799858357008625131",
+        "baseUrl": "https://mangabtt.com",
         "versionId": 1
       }
     ]
@@ -21588,10 +21608,10 @@
   {
     "name": "Tachiyomi: MG Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.mgkomik",
-    "apk": "tachiyomi-id.mgkomik-v1.4.43.apk",
+    "apk": "tachiyomi-id.mgkomik-v1.4.44.apk",
     "lang": "id",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23001,6 +23021,26 @@
         "lang": "ja",
         "id": "7595224096258102519",
         "baseUrl": "https://weloma.art",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: RawZ",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.rawz",
+    "apk": "tachiyomi-ja.rawz-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "RawZ",
+        "lang": "ja",
+        "id": "6371104137263721065",
+        "baseUrl": "https://stmanga.com",
         "versionId": 1
       }
     ]
@@ -25769,10 +25809,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.4.82.apk",
+    "apk": "tachiyomi-ru.remanga-v1.4.83.apk",
     "lang": "ru",
-    "code": 82,
-    "version": "1.4.82",
+    "code": 83,
+    "version": "1.4.83",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
