@@ -18466,10 +18466,10 @@
   {
     "name": "Tachiyomi: Manga Crab",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangacrab",
-    "apk": "tachiyomi-es.mangacrab-v1.4.42.apk",
+    "apk": "tachiyomi-es.mangacrab-v1.4.43.apk",
     "lang": "es",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18478,7 +18478,7 @@
         "name": "Manga Crab",
         "lang": "es",
         "id": "6167683270485370369",
-        "baseUrl": "https://mangacrab3.com",
+        "baseUrl": "https://httpmangacrab2.com",
         "versionId": 1
       }
     ]
@@ -23258,26 +23258,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: JMana",
-    "pkg": "eu.kanade.tachiyomi.extension.ko.jmana",
-    "apk": "tachiyomi-ko.jmana-v1.4.15.apk",
-    "lang": "ko",
-    "code": 15,
-    "version": "1.4.15",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "JMana",
-        "lang": "ko",
-        "id": "4727829341596550054",
-        "baseUrl": "https://jmana1.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manhwa Raw",
     "pkg": "eu.kanade.tachiyomi.extension.ko.manhwaraw",
     "apk": "tachiyomi-ko.manhwaraw-v1.4.37.apk",
@@ -23601,10 +23581,10 @@
   {
     "name": "Tachiyomi: Blackout Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.blackoutcomics",
-    "apk": "tachiyomi-pt.blackoutcomics-v1.4.1.apk",
+    "apk": "tachiyomi-pt.blackoutcomics-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24961,10 +24941,10 @@
   {
     "name": "Tachiyomi: Portuga Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.portugamangas",
-    "apk": "tachiyomi-pt.portugamangas-v1.4.1.apk",
+    "apk": "tachiyomi-pt.portugamangas-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26634,26 +26614,6 @@
         "lang": "tr",
         "id": "4357416108470845594",
         "baseUrl": "https://diamondfansub.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Esomanga",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.esomanga",
-    "apk": "tachiyomi-tr.esomanga-v1.4.36.apk",
-    "lang": "tr",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Esomanga",
-        "lang": "tr",
-        "id": "8532813525155212852",
-        "baseUrl": "https://esomanga.com",
         "versionId": 1
       }
     ]
