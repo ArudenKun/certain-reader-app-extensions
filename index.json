@@ -11119,10 +11119,10 @@
   {
     "name": "Tachiyomi: Manga Demon",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangademon",
-    "apk": "tachiyomi-en.mangademon-v1.4.8.apk",
+    "apk": "tachiyomi-en.mangademon-v1.4.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11131,7 +11131,7 @@
         "name": "Manga Demon",
         "lang": "en",
         "id": "8089306398534489202",
-        "baseUrl": "https://demoncomics.org",
+        "baseUrl": "https://demontoon.com",
         "versionId": 1
       }
     ]
@@ -21893,10 +21893,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.52.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.53.apk",
     "lang": "id",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21905,7 +21905,7 @@
         "name": "Shinigami",
         "lang": "id",
         "id": "3411809758861089969",
-        "baseUrl": "https://s1.shinigami.cx",
+        "baseUrl": "https://home.shinigami.cx",
         "versionId": 1
       }
     ]
