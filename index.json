@@ -26799,6 +26799,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MajorScans",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.majorscans",
+    "apk": "tachiyomi-tr.majorscans-v1.4.28.apk",
+    "lang": "tr",
+    "code": 28,
+    "version": "1.4.28",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MajorScans",
+        "lang": "tr",
+        "id": "1399106189241365096",
+        "baseUrl": "https://www.majorscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mangacim",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangacim",
     "apk": "tachiyomi-tr.mangacim-v1.4.29.apk",
