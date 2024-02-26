@@ -13919,10 +13919,10 @@
   {
     "name": "Tachiyomi: ManhwaZ",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwaz",
-    "apk": "tachiyomi-en.manhwaz-v1.4.35.apk",
+    "apk": "tachiyomi-en.manhwaz-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17666,10 +17666,10 @@
   {
     "name": "Tachiyomi: BarManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.barmanga",
-    "apk": "tachiyomi-es.barmanga-v1.4.35.apk",
+    "apk": "tachiyomi-es.barmanga-v1.4.36.apk",
     "lang": "es",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18506,10 +18506,10 @@
   {
     "name": "Tachiyomi: MangaEsp",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangaesp",
-    "apk": "tachiyomi-es.mangaesp-v1.4.1.apk",
+    "apk": "tachiyomi-es.mangaesp-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18518,7 +18518,7 @@
         "name": "MangaEsp",
         "lang": "es",
         "id": "1712700133966179676",
-        "baseUrl": "https://mangaesp.co",
+        "baseUrl": "https://mangaesp.net",
         "versionId": 1
       }
     ]
@@ -22606,6 +22606,26 @@
         "lang": "ja",
         "id": "5414342435310010512",
         "baseUrl": "https://idol.gravureprincess.date",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: JManga",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.jmanga",
+    "apk": "tachiyomi-ja.jmanga-v1.4.5.apk",
+    "lang": "ja",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "JManga",
+        "lang": "ja",
+        "id": "6141590427749684419",
+        "baseUrl": "https://jmanga.vip",
         "versionId": 1
       }
     ]
@@ -27701,10 +27721,10 @@
   {
     "name": "Tachiyomi: SayHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.sayhentai",
-    "apk": "tachiyomi-vi.sayhentai-v1.4.3.apk",
+    "apk": "tachiyomi-vi.sayhentai-v1.4.4.apk",
     "lang": "vi",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27814,6 +27834,26 @@
         "lang": "vi",
         "id": "7969606392351831672",
         "baseUrl": "https://truyenlh.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: UmeTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.umetruyen",
+    "apk": "tachiyomi-vi.umetruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "UmeTruyen",
+        "lang": "vi",
+        "id": "2473081822885310816",
+        "baseUrl": "https://umetruyenvip.com",
         "versionId": 1
       }
     ]
