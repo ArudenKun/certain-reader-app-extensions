@@ -18744,6 +18744,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: ManhwaWeb",
+    "pkg": "eu.kanade.tachiyomi.extension.es.manhwaweb",
+    "apk": "tachiyomi-es.manhwaweb-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ManhwaWeb",
+        "lang": "es",
+        "id": "5943212552955476721",
+        "baseUrl": "https://manhwaweb.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mantraz Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.mantrazscan",
     "apk": "tachiyomi-es.mantrazscan-v1.4.35.apk",
