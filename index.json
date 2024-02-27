@@ -23419,6 +23419,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Alone Scanlator",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.alonescanlator",
+    "apk": "tachiyomi-pt.alonescanlator-v1.4.35.apk",
+    "lang": "pt-BR",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Alone Scanlator",
+        "lang": "pt-BR",
+        "id": "6537779949034492691",
+        "baseUrl": "https://alonescanlator.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Amuy",
     "pkg": "eu.kanade.tachiyomi.extension.pt.amuy",
     "apk": "tachiyomi-pt.amuy-v1.4.36.apk",
