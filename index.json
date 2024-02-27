@@ -19326,10 +19326,10 @@
   {
     "name": "Tachiyomi: Tres Daos Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.tresdaosscan",
-    "apk": "tachiyomi-es.tresdaosscan-v1.4.28.apk",
+    "apk": "tachiyomi-es.tresdaosscan-v1.4.35.apk",
     "lang": "es",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19337,9 +19337,9 @@
       {
         "name": "Tres Daos Scan",
         "lang": "es",
-        "id": "7518531764820524940",
+        "id": "2325181548739638102",
         "baseUrl": "https://tresdaos.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
