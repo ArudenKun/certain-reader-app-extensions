@@ -28099,6 +28099,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Cartoon18",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.cartoon18",
+    "apk": "tachiyomi-zh.cartoon18-v1.4.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Cartoon18",
+        "lang": "zh",
+        "id": "28664779574072063",
+        "baseUrl": "https://www.cartoon18.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Comicabc",
     "pkg": "eu.kanade.tachiyomi.extension.zh.comicabc",
     "apk": "tachiyomi-zh.comicabc-v1.4.1.apk",
