@@ -1426,10 +1426,10 @@
   {
     "name": "Tachiyomi: Coomer",
     "pkg": "eu.kanade.tachiyomi.extension.all.coomer",
-    "apk": "tachiyomi-all.coomer-v1.4.10.apk",
+    "apk": "tachiyomi-all.coomer-v1.4.11.apk",
     "lang": "all",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2747,10 +2747,10 @@
   {
     "name": "Tachiyomi: Kemono",
     "pkg": "eu.kanade.tachiyomi.extension.all.kemono",
-    "apk": "tachiyomi-all.kemono-v1.4.10.apk",
+    "apk": "tachiyomi-all.kemono-v1.4.11.apk",
     "lang": "all",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23366,14 +23366,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki326.net",
+        "baseUrl": "https://manatoki327.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki326.com",
+        "baseUrl": "https://newtoki327.com",
         "versionId": 1
       }
     ]
