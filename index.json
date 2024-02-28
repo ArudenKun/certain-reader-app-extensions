@@ -18326,10 +18326,10 @@
   {
     "name": "Tachiyomi: Kumanga",
     "pkg": "eu.kanade.tachiyomi.extension.es.kumanga",
-    "apk": "tachiyomi-es.kumanga-v1.4.8.apk",
+    "apk": "tachiyomi-es.kumanga-v1.4.9.apk",
     "lang": "es",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23071,6 +23071,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: ReadManga.at",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.readmangaat",
+    "apk": "tachiyomi-ja.readmangaat-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ReadManga.at",
+        "lang": "ja",
+        "id": "8946965540308751173",
+        "baseUrl": "https://readmanga.at",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Sen Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.senmanga",
     "apk": "tachiyomi-ja.senmanga-v1.4.6.apk",
@@ -26821,10 +26841,10 @@
   {
     "name": "Tachiyomi: MajorScans",
     "pkg": "eu.kanade.tachiyomi.extension.tr.majorscans",
-    "apk": "tachiyomi-tr.majorscans-v1.4.28.apk",
+    "apk": "tachiyomi-tr.majorscans-v1.4.29.apk",
     "lang": "tr",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
