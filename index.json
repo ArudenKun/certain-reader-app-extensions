@@ -18464,6 +18464,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Lolivault",
+    "pkg": "eu.kanade.tachiyomi.extension.es.lolivault",
+    "apk": "tachiyomi-es.lolivault-v1.4.3.apk",
+    "lang": "es",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Lolivault",
+        "lang": "es",
+        "id": "1420213267345607410",
+        "baseUrl": "https://lector.lolivault.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Crab",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangacrab",
     "apk": "tachiyomi-es.mangacrab-v1.4.43.apk",
